@@ -1,0 +1,45 @@
+id,name,metadata,link
+aata_bus_stops,AATA Bus Stops,http://data.a2gov.org/feeds/GIS/AATA%20BusStops/AATA_Bus_Stops.shp.xml,http://data.a2gov.org/feeds/GIS/AATA%20BusStops/AATABusStops.zip
+building_footprints,Building Footprints,http://data.a2gov.org/feeds/GIS/AA%20Building%20Footprints/AA_Building_Footprints.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Building%20Footprints/AA_Building_Footprints.zip
+catch_basins,Catch Basins,http://data.a2gov.org/feeds/GIS/Catchbasins/A2CatchBasins.shp.xml,http://data.a2gov.org/feeds/GIS/Catchbasins/A2Catchbasins.zip
+city_boundary,City Boundary,http://data.a2gov.org/feeds/GIS/AA%20City%20Boundary/AA_City_Boundary.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20City%20Boundary/AA_City_Boundary.zip
+city_owned_land,City Owned Land,http://data.a2gov.org/feeds/GIS/AA%20City%20Owned%20Land/AA_City_Owned_Land.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20City%20Owned%20Land/AA_City_Owned_Land.zip
+dda_boundary,DDA Boundary,http://data.a2gov.org/feeds/GIS/AA%20DDA%20Boundary/AA_DDA_Boundary.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20DDA%20Boundary/AA_DDA_Boundary.zip
+floodplain,Floodplain,http://data.a2gov.org/feeds/GIS/AA%20Floodplain/AA_Floodplain.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Floodplain/AA_Floodplain.zip
+floodway,Floodway,http://data.a2gov.org/feeds/GIS/AA%20Floodway/AA_Floodway.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Floodway/AA_Floodway.zip
+future_landuse,Future LandUse,http://data.a2gov.org/feeds/GIS/AA%20Future%20LandUse/AA_Future_LandUse.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Future%20LandUse/AA_Future_LandUse.zip
+greenbelt_boundary,Greenbelt Boundary,http://data.a2gov.org/feeds/GIS/AA%20Greenbelt%20Boundary/AA_Greenbelt_Boundary.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Greenbelt%20Boundary/AA_Greenbelt_Boundary.zip
+greenbelt_properties,Greenbelt Properties,http://data.a2gov.org/feeds/GIS/AA%20Greenbelt%20Properties/AA_Greenbelt_Properties.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Greenbelt%20Properties/AA_Greenbelt_Properties.zip
+historic_districts,Historic Districts,http://data.a2gov.org/feeds/GIS/AA%20Historic%20Districts/AA_Historic_Districts.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Historic%20Districts/AA_Historic_Districts.zip
+hydrants,Hydrants,http://data.a2gov.org/feeds/GIS/Hydrants/A2Hydrants.shp.xml,http://data.a2gov.org/feeds/GIS/Hydrants/A2Hydrants.zip
+landuse,LandUse,http://data.a2gov.org/feeds/GIS/AA%20LandUse/AA_LandUse.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20LandUse/AA_LandUse.zip
+neighborhoods,Neighborhoods,http://data.a2gov.org/feeds/GIS/AA%20Neighborhoods/AA_Neighborhoods.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Neighborhoods/AA_Neighborhoods.shp.zip
+non_city_open_spaces,Non City Open Spaces,http://data.a2gov.org/feeds/GIS/AA%20Non%20City%20Open%20Spaces/AA_Non_City_Open_Spaces.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Non%20City%20Open%20Spaces/AA_Non_City_Open_Spaces.zip
+parks,Parks,http://data.a2gov.org/feeds/GIS/AA%20Parks/AA_Parks.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Parks/AA_Parks.zip
+polling_locations,Polling Locations,http://data.a2gov.org/feeds/GIS/AA%20Polling%20Locations/AA_Polling_Locations.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Polling%20Locations/AA_Polling_Locations.zip
+schools,Schools,http://data.a2gov.org/feeds/GIS/AA%20Schools/AA_Schools.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Schools/AA_Schools.zip
+streetlights,Streetlights,http://data.a2gov.org/feeds/GIS/AA%20Streetlights/AA_Streetlights.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Streetlights/AA_Streetlights.zip
+trees,Trees,http://data.a2gov.org/feeds/GIS/Trees/A2Trees.shp.xml,http://data.a2gov.org/feeds/GIS/Trees/A2Trees.zip
+university,University,http://data.a2gov.org/feeds/GIS/AA%20University/AA_University.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20University/AA_University.zip
+wards_and_precincts,Wards and Precincts,http://data.a2gov.org/feeds/GIS/AA%20Wards%20and%20Precincts/AA_Wards_and_Precincts.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Wards%20and%20Precincts/AA_Wards_and_Precincts.zip
+watershedcreekshed,Watershed/Creekshed,http://data.a2gov.org/feeds/GIS/watersheds/watersheds.xml,http://data.a2gov.org/feeds/GIS/watersheds/watersheds.zip
+zoning_districts,Zoning Districts,http://data.a2gov.org/feeds/GIS/AA%20Zoning%20Districts/AA_Zoning_Districts.shp.xml,http://data.a2gov.org/feeds/GIS/AA%20Zoning%20Districts/AA_Zoning_Districts.zip
+city_clerk_permits,City Clerk Permits,https://www.a2gov.org/services/data/Pages/CityClerkPermitsMetadata.aspx,http://data.a2gov.org/feeds/clerk/ANN_ARBOR_CITY_CLERK_PERMITS.csv
+public_meetings_and_city_events_calendar,Public Meetings and City Events Calendar,https://www.a2gov.org/services/data/Pages/PublicMeetingsandCityEventsCalendarMetadata.aspx,http://www.google.com/calendar/feeds/cityofannarbor%40gmail.com/public/basic
+budget_worksheet_-_expenses,Budget Worksheet - Expenses,https://www.a2gov.org/services/data/Pages/RequestforAppropriationMetaData.aspx,http://data.a2gov.org/feeds/Finance/BudgetWorksheet-Expenses.pdf
+budget_worksheet_-_revenues,Budget Worksheet - Revenues,https://www.a2gov.org/services/data/Pages/202A-RevenueSourcebyAgency.aspx,http://data.a2gov.org/feeds/Finance/BudgetWorksheet-Revenues.pdf
+invoice_aging_report,Invoice Aging Report,https://www.a2gov.org/services/data/Pages/AgingReportbyAgencyMetaData.aspx,http://data.a2gov.org/feeds/Finance/Invoice_Aging_Report.pdf
+city_of_ann_arbor_monthly_investment_report,City of Ann Arbor Monthly Investment Report,https://www.a2gov.org/services/data/Pages/CityofAnnArborMonthlyInvestmentReportMetadata.aspx,http://data.a2gov.org/feeds/Finance/CityofAnnArborMonthlyInvestment.pdf
+expense_budget_performance_report,Expense Budget Performance Report,https://www.a2gov.org/services/data/Pages/DetailListingofObligationsvsBudget(A103)Metadata.aspx,http://data.a2gov.org/feeds/Finance/rptExpenseBudgetPerformance.pdf
+employer's_quarterly_federal_tax_return,Employer's Quarterly Federal Tax Return,https://www.a2gov.org/services/data/Pages/941-Employer%E2%80%99sQuarterlyFederalTaxReturnMetadata.aspx,http://data.a2gov.org/feeds/Finance/941-Employer%27s%20Quarterly%20Federal%20Tax%20Return.PDF
+monthly_financial_council_report,Monthly Financial Council Report,https://www.a2gov.org/services/data/Pages/GeneralFundReportMetadata.aspx,http://data.a2gov.org/feeds/Finance/Council_Report.pdf
+open_purchase_orders,Open Purchase Orders,https://www.a2gov.org/services/data/Pages/PurchaseOrdersbyAgencyMetadata.aspx,http://data.a2gov.org/feeds/Finance/OpenPurchaseOrders.pdf
+revenue_budget_performance_report,Revenue Budget Performance Report,https://www.a2gov.org/services/data/Pages/RevenueSourceSummaryofRevenuesRecognizedvsBudgetsAcrossAgencies(LGA270)Metadata.aspx,http://data.a2gov.org/feeds/Finance/rptRevenueBudgetPerformance.pdf
+trial_balance_by_fund,Trial Balance by Fund,https://www.a2gov.org/services/data/Pages/SummaryTrialBalancebyFund(A614)Metadata.aspx,http://data.a2gov.org/feeds/Finance/TrialBalanceListing.pdf
+construction_permits,Construction Permits,https://www.a2gov.org/services/data/Pages/ConstructionPermits.aspx,http://data.a2gov.org/feeds/construction/ANN_ARBOR_CONSTRUCTION_PERMITS.csv
+petitions_under_review,Petitions Under Review,https://www.a2gov.org/services/data/Pages/PetitionsUnderReviewMetadata.aspx,http://maps.live.com/?mapurl=http://www2.a2gov.org/feeds/rss.aspx?view=geo
+planning_and_development_projects,Planning and Development Projects,https://www.a2gov.org/services/data/Pages/PlanningProjectMetadata.aspx,http://data.a2gov.org/feeds/planning/ANN_ARBOR_PLANNING_AND_DEVELOPMENT_PROJECTS.csv
+group_ab_crime_past365days,"Group A/B Crime
+Past365days",,http://data.a2gov.org/feeds/safetyservices/PartABCrimeOffenses.csv
+calls_for_service_past365days,"Calls for Service
+Past365days",,http://data.a2gov.org/feeds/safetyservices/callsForService.csv
